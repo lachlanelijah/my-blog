@@ -7,7 +7,7 @@ tags = ['japan', 'planning']
 ShowToc = true
 TocOpen = true
 [cover]
-  image = 'sakurajima.jpeg'  # if using page bundle
+  image = 'sakurajima.jpg'  # if using page bundle
   alt = 'The volcano Sakurajima, viewed from Shiroyama Observatory'
   caption = 'The view of Sakurajima from Shiroyama Observatory'
   relative = true
