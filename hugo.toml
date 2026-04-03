@@ -1,6 +1,6 @@
 baseURL = "https://lachieatack.online"
 languageCode = 'en-AU'
-title = 'Under the sun'
+title = 'Under the Sun'
 theme = "PaperMod"
 
 [params]
