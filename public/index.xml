@@ -1,28 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lachie Online</title>
+    <title>Under the Sun</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Lachie Online</description>
+    <description>Recent content on Under the Sun</description>
     <generator>Hugo</generator>
     <language>en-AU</language>
-    <lastBuildDate>Sat, 28 Mar 2026 12:36:48 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 10:04:46 +1100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sat, 28 Mar 2026 12:36:48 +1100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello!&lt;/h1&gt;
-&lt;h2 id=&#34;hey&#34;&gt;Hey&lt;/h2&gt;
-&lt;p&gt;Normal paragraph text here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;bullet point&lt;/li&gt;
-&lt;li&gt;another one&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://example.com&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;image alt text&#34; loading=&#34;lazy&#34; src=&#34;./image.jpg&#34;&gt;&lt;/p&gt;</description>
+      <title>Reflections from my first solo trip</title>
+      <link>http://localhost:1313/posts/reflections-from-japan/</link>
+      <pubDate>Fri, 03 Apr 2026 10:04:46 +1100</pubDate>
+      <guid>http://localhost:1313/posts/reflections-from-japan/</guid>
+      <description>&lt;p&gt;I went on my first solo trip recently. I spent a month travelling around Japan. I stayed in 11 different hotels in 10 different cities over 29 nights (plus two nights in the air). It was by far the best holiday I&amp;rsquo;ve ever been on.&lt;/p&gt;
+&lt;p&gt;What follows is a little summary of my experiences, what it was like to travel alone, and what I&amp;rsquo;ll do differently next time.&lt;/p&gt;
+&lt;h2 id=&#34;planning-the-trip&#34;&gt;Planning the trip&lt;/h2&gt;
+&lt;p&gt;This was to be my second Japan trip—I previously visited for two weeks in December 2023—so I&amp;rsquo;d already ticked off many of the big ticket items. I stayed in Tokyo, Kyoto and Osaka, and also visited Hiroshima, Nagoya and Tsu. I knew a little more about what to expect and had much better Japanese skills.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I went on my first solo trip recently. I spent a month travelling around Japan. I stayed in 11 different hotels in 10 different cities over 29 nights (plus two nights in the air). It was by far the best holiday I&rsquo;ve ever been on.</p>
+<p>What follows is a little summary of my experiences, what it was like to travel alone, and what I&rsquo;ll do differently next time.</p>
+<h2 id="planning-the-trip">Planning the trip</h2>
+<p>This was to be my second Japan trip—I previously visited for two weeks in December 2023—so I&rsquo;d already ticked off many of the big ticket items. I stayed in Tokyo, Kyoto and Osaka, and also visited Hiroshima, Nagoya and Tsu. I knew a little more about what to expect and had much better Japanese skills.</p>
+<h3 id="goals">Goals</h3>
+<p>My big goals were as follows:</p>
+<ol>
+<li>Learn more about Japanese history and culture</li>
+<li>Visit Kagoshima</li>
+<li>Eat great food</li>
+</ol>
+<h4 id="culture-">Culture 🏯</h4>
+<p>I find Japanese culture fascinating. Some of my favourite moments from my first trip included walking through streets in Kyoto, watching the morning markets kick into gear in Asakusa and visiting Osaka Castle. I wanted space in my trip to create more moments of that ilk.</p>
+<h4 id="sakurajima-">Sakurajima 🌋</h4>
+<p>I also really wanted to visit Kagoshima and its neighbour, the volcano Sakurajima. I first learnt about Kagoshima from one of my favourite YouTube channels: <a href="https://www.youtube.com/@OnePackWanderers">One Pack Wanderers</a>. In <a href="https://www.youtube.com/watch?v=L-2hoHkBaEQ&amp;list=PL8A_r3SRzA7B5AdrAemvhoOsdxzDidIDm&amp;index=17">this video</a> of theirs, they catch the Shinkansen down to Kagoshima and circumnavigate Sakurajima by bicycle before taking the ferry to Okinawa. I had watched that video probably three or four times over a two-year period and dreamed of doing the same thing. I found the whole situation fascinating: a 500,000-odd population town living next to (and on) Japan&rsquo;s most active volcano.</p>
+<h4 id="food-">Food 🍜</h4>
+<p>This one is a given (considering that if I didn&rsquo;t eat food on the trip, I&rsquo;d die). In particular, I wanted to eat as much Japanese curry as humanly possible. I was really excited to try some local specialties, like Hakata ramen.</p>
+<h3 id="the-itinerary">The itinerary</h3>
+<p>After months of deliberation—and about fifteen different Google Sheets pages—the following was my final itinerary.</p>
+<p>(This includes changes I made on the trip, which I will discuss later).</p>
+<ol>
+<li>Tokyo (6 nights)</li>
+<li>Kanazawa (3 nights)</li>
+<li>Kyoto (3 nights)</li>
+<li>Matsusaka (1 night)</li>
+<li>Nagoya (1 night)</li>
+<li>Kurashiki (1 night)</li>
+<li>Fukuoka (2 nights)</li>
+<li>Nagasaki (3 nights)</li>
+<li>Kagoshima (3 nights)</li>
+<li>Fujikawaguchiko (1 night)</li>
+<li>Tokyo (4 nights)</li>
+</ol>
+<h2 id="the-trip">The trip</h2>
+<h3 id="part-1-settling-in-tokyo">Part 1: Settling in Tokyo</h3>
+<h3 id="part-2-throwback-cities">Part 2: Throwback cities</h3>
+<h3 id="part-3-a-party-some-snow-a-castle-and-not-venice">Part 3: A party, some snow, a castle and not-Venice</h3>
+<h3 id="part-4-kickin-it-in-kyushu">Part 4: Kickin&rsquo; it in Kyushu</h3>
+<h3 id="part-5-fuji-briefly-and-finishing-up">Part 5: Fuji (briefly) and finishing up</h3>
+<h2 id="what-i-learnt">What I learnt</h2>
+<h3 id="unparalleled-freedom">Unparalleled freedom</h3>
+<h3 id="i-wasnt-lonely">I wasn&rsquo;t lonely</h3>
+<h3 id="travel-light">Travel light</h3>
+<h2 id="what-ill-do-differently-next-time">What I&rsquo;ll do differently next time</h2>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
