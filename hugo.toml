@@ -1,4 +1,7 @@
 baseURL = "https://lachieatack.online"
-locale = 'en-AU'
+languageCode = 'en-AU'
 title = 'Lachie Online'
 theme = "PaperMod"
+
+[params]
+  ShowFullTextinRSS = true
