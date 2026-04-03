@@ -6,6 +6,10 @@ categories = ['Travel']
 tags = ['japan', 'planning']
 ShowToc = true
 TocOpen = true
+[cover]
+  image = 'sakurajima.jpg'  # if using page bundle
+  alt = 'The volcano Sakurajima, viewed from Shiroyama Observatory'
+  caption = 'The view of Sakurajima from Shiroyama Observatory'
 +++
 
 I went on my first solo trip recently. I spent a month travelling around Japan. I stayed in 11 different hotels in 10 different cities over 29 nights (plus two nights in the air). It was by far the best holiday I've ever been on. 
