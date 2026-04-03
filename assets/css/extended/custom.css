@@ -26,3 +26,7 @@
 h1, h2, h3 {
   font-family: 'Noto Serif', serif;
 }
+
+h4 { color: #008080; }
+h5 { color: #e07b00; }
+h6 { color: #6b4c9a; }
