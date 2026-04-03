@@ -1,16 +1,18 @@
 +++
-date = '2026-04-03T10:04:46+11:00'
+date = "2026-04-03T10:04:46+11:00"
 draft = false
-title = 'Reflections from my first solo trip'
-categories = ['Travel']
-tags = ['japan', 'planning']
+title = "Reflections from my first solo trip"
+categories = [ "Travel" ]
+tags = [ "japan", "planning" ]
 ShowToc = true
 TocOpen = true
+fmContentType = "default"
+
 [cover]
-  image = 'sakurajima.jpg'  # if using page bundle
-  alt = 'The volcano Sakurajima, viewed from Shiroyama Observatory'
-  caption = 'The view of Sakurajima from Shiroyama Observatory'
-  relative = true
+image = "sakurajima.jpg"
+alt = "The volcano Sakurajima, viewed from Shiroyama Observatory"
+caption = "The view of Sakurajima from Shiroyama Observatory"
+relative = true
 +++
 
 I went on my first solo trip recently. I spent a month travelling around Japan. I stayed in 11 different hotels in 10 different cities over 29 nights (plus two nights in the air). It was by far the best holiday I've ever been on. 
@@ -19,7 +21,7 @@ What follows is a little summary of my experiences, what it was like to travel a
 
 ## Planning the trip
 
-This was to be my second Japan trip - I previously visited for two weeks in December 2023 - so I'd already ticked off many of the big ticket items. I stayed in Tokyo, Kyoto and Osaka, and also visited Hiroshima, Nagoya and Tsu. I knew a little more about what to expect and had much better Japanese skills.
+This was to be my second Japan trip—I previously visited for two weeks in December 2023—so I'd already ticked off many of the big ticket items. I stayed in Tokyo, Kyoto and Osaka, and also visited Hiroshima, Nagoya and Tsu. I knew a little more about what to expect and had much better Japanese skills.
 
 ### Goals
 My big goals were as follows:
